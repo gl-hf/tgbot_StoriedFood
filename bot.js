@@ -15,7 +15,7 @@ bot.start((ctx) =>
 );
 
 bot.help((ctx) =>
-    ctx.reply("To order food through the bot, please write the command /start", {
+    ctx.reply("Good day! Thank you for your attention to our project. To order food through the bot, please write the command /start", {
     })
 );
 
